@@ -4,3 +4,7 @@ bonsoir
 bonsoir 
 ola
 marhbaa
+
+ceci est juste pour s assurer que les 
+remarques que je viens d ecrire sont bonnes 
+et que les commandes aussi sont les bonnes
