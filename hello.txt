@@ -1,10 +1,2 @@
 Bonjour 
-bonjour 
-bonsoir
-bonsoir
-bonjour
-bonsoir
-hello
-hello
-heloo
-hello there!
+
