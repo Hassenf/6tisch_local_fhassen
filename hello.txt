@@ -6,5 +6,6 @@ bonjour
 bonsoir ceci est un test 
 voila voilou!
 ceci est pour confirmer que la mise a jour ne se fait qu entre les branches de meme nom local and remote sur github et sur mon computer 
+voyons si la mise a jour va etre faite cette fois!!!
 
 
